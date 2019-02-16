@@ -1,0 +1,9 @@
+customization:
+  distribution_code_name: Weasel
+  distribution_version: 0.13.0
+  generator: "Weasel::UIStyleSettings"
+  modified_time: "Sun Feb 17 00:26:16 2019"
+  rime_version: 1.4.0
+patch:
+  "style/color_scheme": youtube
+  "style/horizontal": true
