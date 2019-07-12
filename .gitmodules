@@ -1,0 +1,3 @@
+[submodule "rime-luna-pinyin"]
+	path = rime-luna-pinyin
+	url = ./rime-luna-pinyin
