@@ -1,3 +1,6 @@
 [submodule "rime-luna-pinyin"]
 	path = rime-luna-pinyin
 	url = ./rime-luna-pinyin
+[submodule "rime-dict"]
+	path = rime-dict
+	url = https://github.com/xiaoTaoist/rime-dict
